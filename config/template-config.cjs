@@ -15,7 +15,7 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      城市：{{province.DATA}}	- {{city.DATA}}
+      城市：{{city.DATA}}
       
       天气：{{weather.DATA}}
       
@@ -27,7 +27,7 @@ const TEMPLATE_CONFIG = [
 
       {{comprehensive_horoscope.DATA}}
       
-      {note_en.DATA}} {note_ch.DATA}}
+      {{note_en.DATA}} {{note_ch.DATA}}
     `
   },
   {
