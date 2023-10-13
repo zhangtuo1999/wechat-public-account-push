@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '33a5bd941797e33430cb317527e36446',
 
   PROVINCE: '北京',
-  CITY: '北京',
+  CITY: '石景山区',
 
   USERS: [
     {
