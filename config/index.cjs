@@ -25,8 +25,8 @@ const USER_CONFIG = {
       name: '宝宝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // id: 'oTH816ZwYZDmyyiYAJY0i7t6nKok',
-      id: 'PDU25981T19UqQcbns0WiAMsJCbuMXesosWfftSBq',
-      // id: 'PDU25978TVbGaNQYfXt2WecjbAJiOAVT1hGF3sffp', // 宝宝
+      // id: 'PDU25981T19UqQcbns0WiAMsJCbuMXesosWfftSBq',
+      id: 'PDU25978TVbGaNQYfXt2WecjbAJiOAVT1hGF3sffp', // 宝宝
 
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // useTemplateId: 'daJY5uGjHsO6vAW1tOMwMcImxT4iSPmQp5bKxynnlTo',
