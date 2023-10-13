@@ -15,11 +15,11 @@ const TEMPLATE_CONFIG = [
       
       城市：{{city.DATA}}
       
-      天气：{{tian_api_weather_weather_0.DATA}}
+      天气：{{weather.DATA}}
       
-      气温: {{tian_api_weather_lowest_0.DATA}} ~ {{tian_api_weather_highest_0.DATA}}
+      气温: {{min_temperature.DATA}} ~ {{max_temperature.DATA}}
       
-      {{tian_api_weather_tips_0.DATA}}
+      {{notice.DATA}}
       
       ---
 
