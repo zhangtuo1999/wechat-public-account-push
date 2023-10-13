@@ -7,11 +7,9 @@ const TEMPLATE_CONFIG = [
 
       **{{date.DATA}}**
       
-      {{holidaytts.DATA}}
+      {{holidaytts.DATA}}{{birthday_message.DATA}}
             
-      今天是我们在一起的第{{love_day.DATA}}天
-      
-      {{birthday_message.DATA}}
+      今天是我们在一起的第{{love_day.DATA}}天！
       
       ---
       
