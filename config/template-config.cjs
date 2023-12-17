@@ -1,8 +1,8 @@
 /* eslint-disable */
 const TEMPLATE_CONFIG = [
   {
-    id: '0001',
-    title: '宝宝早呀！',
+    id: "0001",
+    title: "宝宝早呀！mua！",
     desc: `
 
       **{{date.DATA}}**
@@ -10,6 +10,7 @@ const TEMPLATE_CONFIG = [
       {{holidaytts.DATA}}{{birthday_message.DATA}}
             
       今天是我们在一起的第{{love_day.DATA}}天！
+      也是宝宝脱离苦海的第{{work_day.DATA}}天！
       
       ---
       
@@ -26,11 +27,11 @@ const TEMPLATE_CONFIG = [
       {{comprehensive_horoscope.DATA}}
       
       {{note_en.DATA}} {{note_ch.DATA}}
-    `
+    `,
   },
   {
-    id: '0002',
-    title: '推送完成提醒',
+    id: "0002",
+    title: "推送完成提醒",
     desc: `
       服务器信息：{{post_time_zone.DATA}} {{post_time.DATA}}
       
@@ -43,8 +44,8 @@ const TEMPLATE_CONFIG = [
       成功用户: {{success_post_ids.DATA}}
       
       失败用户: {{fail_post_ids.DATA}}
-    `
+    `,
   },
-]
+];
 
-module.exports = TEMPLATE_CONFIG
+module.exports = TEMPLATE_CONFIG;
