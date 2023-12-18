@@ -7,12 +7,12 @@ const TEMPLATE_CONFIG = [
 
       **{{date.DATA}}**
       
+      今天是宝宝脱离苦海的第{{work_day.DATA}}天！
+
       {{holidaytts.DATA}}{{birthday_message.DATA}}
 
-      今天是宝宝脱离苦海的第{{work_day.DATA}}天！
-            
       今天是我们在一起的第{{love_day.DATA}}天！
-      
+                  
       ---
       
       城市：{{city.DATA}}
