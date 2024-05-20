@@ -2,7 +2,7 @@
 const TEMPLATE_CONFIG = [
   {
     id: "0001",
-    title: "小宝早呀！muuuua！\n",
+    title: "小宝早呀！muuuua！",
     desc: `
 
       **{{date.DATA}}**
@@ -11,7 +11,7 @@ const TEMPLATE_CONFIG = [
 
       {{holidaytts.DATA}}
       
-      {{birthday_message.DATA}}!
+      {{birthday_message.DATA}}
 
       今天是我们在一起的第{{love_day.DATA}}天！
                   
@@ -33,7 +33,7 @@ const TEMPLATE_CONFIG = [
 
       ---
       
-      bb爱你！
+      希望小宝天天开心！bb爱你！！！
     `,
   },
   {
