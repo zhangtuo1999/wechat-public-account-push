@@ -10,10 +10,10 @@ const USER_CONFIG = {
   USE_PASSAGE: "push-deer",
   TIAN_API_KEY: "34defccc60a136b463f59481a56f4862",
   // 使用微信测试号：公众号APP_ID
-  APP_ID: "wx68588210dd167637",
+  APP_ID: "",
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: "33a5bd941797e33430cb317527e36446",
+  APP_SECRET: "",
 
   PROVINCE: "北京",
   CITY: "朝阳",
