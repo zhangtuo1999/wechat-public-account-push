@@ -2,14 +2,16 @@
 const TEMPLATE_CONFIG = [
   {
     id: "0001",
-    title: "宝宝早呀！mua！",
+    title: "小宝早呀！muuuua！\n",
     desc: `
 
       **{{date.DATA}}**
       
-      今天是宝宝脱离苦海的第{{work_day.DATA}}天！
+      今天是小宝脱离苦海的第{{work_day.DATA}}天！
 
-      {{holidaytts.DATA}}{{birthday_message.DATA}}
+      {{holidaytts.DATA}}
+      
+      {{birthday_message.DATA}}!
 
       今天是我们在一起的第{{love_day.DATA}}天！
                   
@@ -25,9 +27,13 @@ const TEMPLATE_CONFIG = [
       
       ---
 
-      {{comprehensive_horoscope.DATA}}
+      {{note_en.DATA}}
+
+      {{note_ch.DATA}}
+
+      ---
       
-      {{note_en.DATA}} {{note_ch.DATA}}
+      bb爱你！
     `,
   },
   {
